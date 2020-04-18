@@ -32,8 +32,8 @@ enviando uma foto da assinatura do destinatário</p>
 <h2 id="comecando">▶ Começando</h2>
 
 <h3>⚙ Iniciando o Backend</h3>
-<p>Antes de iniciar o serviço, é necessário configurar as variáveis ambientes no arquivo ".env".</p>
-<p>Todas as variáveis que precisam de configuração estão listadas no arquivo ".env.example"</p>
+<p>Antes de iniciar o serviço, é necessário configurar as variáveis ambientes no arquivo <code>.env</code>.</p>
+<p>Todas as variáveis que precisam de configuração estão listadas no arquivo <code>.env.example</code>.</p>
 <p><strong>OBS:</strong> Para uma melhor experiência ao usar o aplicativo mobile, não configure o endereço do backend como "localhost", use o IP.</p>
 <p>Acesse a pasta do projeto e execute o seguinte comando para instalar as dependências necessárias para o projeto:</p>
 <p><code>npm install</code></p>
